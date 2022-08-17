@@ -43,10 +43,6 @@ margin: 0 auto;
 }
 #post
 {
-<<<<<<< HEAD
-background: #ddd;
-padding: 1cm;
-=======
     padding: 1em;
 }
 #footer
@@ -55,5 +51,4 @@ background: #777;
 color:white;
 text-align: center;
 padding: 0.5en;
->>>>>>> footer
 }
